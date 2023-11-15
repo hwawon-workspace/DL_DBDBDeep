@@ -1,7 +1,7 @@
 # DL_DBDBDeep
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="DBDB딥 로고 또는 이미지">
+  <img src="https://th.bing.com/th/id/OIP.m5V5ewpDabZ2cgyc9HKegwHaJa?w=125&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="DBDB딥 로고 또는 이미지">
 </p>
 
 ## 소개
